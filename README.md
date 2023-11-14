@@ -1,2 +1,2 @@
-# My-new0rep
+# Babysteps
 Connecting VS Code to GIthub
